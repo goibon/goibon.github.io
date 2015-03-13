@@ -13,11 +13,6 @@ github_username:  Goibon
 # Build settings
 markdown: kramdown
 
-# Collections
-collections:
-	games:
-		output: true
-
 # Front matter defaults
 # defaults:
 #  -
