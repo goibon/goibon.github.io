@@ -2,6 +2,7 @@
  * Site header
  */
 .site-header {
+    background-color: white;
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -233,4 +234,71 @@
             font-size: 18px;
         }
     }
+}
+
+/**
+* Games
+*/
+.game-content {
+    margin-bottom: $spacing-unit;
+
+    h1 {
+        font-size: 32px;
+    }
+
+    h2 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 18px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+
+.cover-banner {
+    width: 100%;
+    height: 100vh;
+    max-height: 1440px;
+    
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    overflow: visible;
+    
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
+
+.cover-title {
+    font-size: 6.2rem;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+    margin-left: 0 auto;
+    text-align:center;
+    position: relative;
+    top: 20%;
+    transform: translateY(-50%);
 }

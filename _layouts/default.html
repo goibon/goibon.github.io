@@ -4,9 +4,11 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
+    {%if {{page.layout}} == "game" %}
+      {% include coverimageheader.html %}
+    {% else %}
+      {% include header.html %}
+    {% endif %}
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
