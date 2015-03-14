@@ -2,13 +2,14 @@
 title: Bunny Nights
 layout: game
 thumbnail: bunny-nights-appicon.png
+icon: bunny-nights-appicon-large.png
 cover_image: bunny-nights-resultscreen-good.png
 short-description: A rhythm game developed for Android during my semester at DADIU. The game was developed in a single week with a team of 18 people.
 ---
 #Summary
 A rhythm game developed for Android during my semester at DADIU. The game is set in the 80's in a world of anthropomorphic bunnies where the playey takes on the role of Shawn who is looking to impress the bunny ladies with his dance moves. The player must tap the buttons as they appear on the screen in sync with the original tracks that play in the levels. If the player succeeds, Shawn will get the lady, otherwise he will have to go home alone tonight.
 
-![Club Backdrop](/assets/bunny-nights-club-backdrop.png)
+##[Download the game here (.APK file)](/assets/bunny-nights.apk)
 
 #Development
 The game was developed by Team 4 of DADIU (The National Academy of Digital Interactive Entertainment) 2014 in the period September 8th through September 17th. The following conditions for the game were set by DADIU for the students to follow:
