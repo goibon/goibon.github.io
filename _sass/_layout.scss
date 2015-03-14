@@ -271,6 +271,16 @@
     }
 }
 
+.cover-header {
+    background-color: white;
+    border-top: 5px solid $grey-color-dark;
+    border-bottom: 1px solid $grey-color-light;
+    min-height: 56px;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
 .cover-banner {
     width: 100%;
     height: 100vh;
