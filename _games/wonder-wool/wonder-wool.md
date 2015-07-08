@@ -2,7 +2,7 @@
 title: Wonder Wool
 layout: game
 thumbnail: wonder-wool-appicon.png
-icon: wonder-wool-appicon.png
+icon: wonder-wool-appicon-large.png
 cover_image: wonderWool_fb_cover.png
 short-description: A mobile game developed for Android and iOS during my semester at DADIU. The game was developed over the course of a month with a team of 18 people. The game was created using Unity3D and all game code was written in C#.
 ---
