@@ -2,9 +2,8 @@
 title: Goibon's Online Portfolio
 email: kasper.lind.sorensen@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Kasper Lind Sørensen and I'm a Computer Science student at Aalborg University AAU specialising in computer game programming.
+  I have a passion for computer games and when I'm not busy playing them, I like to develop some of my own.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: Goibon
