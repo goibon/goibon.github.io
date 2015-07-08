@@ -24,3 +24,12 @@ collections:
 permalink: title
 
 exclude: [vendor]
+
+# Compress settings
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  ignore:
+    envs: []
