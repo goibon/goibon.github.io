@@ -22,11 +22,6 @@ collections:
   games:
     output: true
 
-# Front matter defaults
-# defaults:
-#  -
-#  	scope:
-#  		path: "games"
-#  		type: "pages"
-#  	values:
-#  		
+permalink: title
+
+exclude: [vendor]

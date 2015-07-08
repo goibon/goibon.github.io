@@ -1,3 +1,15 @@
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "html-proofer"
+
 language: ruby
 rvm:
   - 2.1.1
+
+install: gem install jekyll html-proofer
+script: jekyll build && htmlproof ./_site
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
