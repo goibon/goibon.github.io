@@ -1,9 +1,10 @@
 language: ruby
 rvm:
   - 2.1.1
+cache: bundler
 
 install: bundle install
-script: bundle exec jekyll build && htmlproof ./_site
+script: bundle exec jekyll build && htmlproof _site --href-ignore '#' --empty-alt-ignore
 
 env:
   global:
