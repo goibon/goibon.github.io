@@ -50,3 +50,13 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+#markdown-toc:before {
+  content: "Table of Contents";
+  font-weight: bold;
+}
+ul#markdown-toc {
+  list-style: none;
+  float: right;
+  background-color: white;
+}
