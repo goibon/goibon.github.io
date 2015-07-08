@@ -4,7 +4,7 @@ layout: game
 thumbnail: bunny-nights-appicon.png
 icon: bunny-nights-appicon-large.png
 cover_image: bunny-nights-resultscreen-good.png
-short-description: A rhythm game developed for Android during my semester at DADIU. The game was developed in a single week with a team of 18 people.
+short-description: A rhythm game developed for Android during my semester at DADIU. The game was developed in a single week with a team of 18 people. The game was created using Unity3D and all game code was written in C#.
 ---
 * TOC
 {:toc}
@@ -17,13 +17,13 @@ A rhythm game developed for Android during my semester at DADIU. The game is set
 #Development
 The game was developed by Team 4 of DADIU (The National Academy of Digital Interactive Entertainment) 2014 in the period September 8th through September 17th. The following conditions for the game were set by DADIU for the students to follow:
 
-##Conditions for Content:
+##Conditions for Content
 - The game can be of any genre.
 - The game must be playable as a single-player game.
 - The game must be controlled by one finger only using a one-touch control scheme.That means only simple interactions like ‘Tap’ and ‘Tap and Hold’ are allowed. No multi-touch, dragging, pinching, virtual joystick, shake, sound or other advanced controls.
 - The game must present itself in Danish and an English version involving a technical and practical solution to handle translations.
 
-##Technical Conditions:
+##Technical Conditions
 - The game must be developed in Unity.
 - The game must be playable on the Samsung Galaxy Tab 2 10.1. This means that you will have to consider load times and asset sizes, when you plan your production.
 - The game should be completed in the sense that it is optimised and can be played by others with no extra information.
