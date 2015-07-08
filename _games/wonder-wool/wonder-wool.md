@@ -22,8 +22,8 @@ In the game the player controls a flock of sheep and has to steer them through v
 The game is set in ancient Greece and uses characters from Greek mythology such as Zeus, who aid the player by giving him godly powers like the ability to strike down the terrain with lightning to clear a path for the sheep. The game contains nine unique levels presenting various terrain hazards such as mud that slows down the sheep, and pillars that can crush them. There is also two god powers available, one being the lightning strike, and the other being the power to make the sheep eat grass much faster thus reducing the risk that they are left behind.
 
 ##Download
-[![Google Play Link]({{site.url}}/Assets/Google-Play-Badge.png)](https://play.google.com/store/apps/details?id=dk.dadiu.woolympians)
-[![App Store Link]({{site.url}}/Assets/App-Store-Badge.svg)](https://itunes.apple.com/us/app/wonder-wool/id958953053)
+[![Google Play Link]({{site.url}}/assets/Google-Play-Badge.png)](https://play.google.com/store/apps/details?id=dk.dadiu.woolympians)
+[![App Store Link]({{site.url}}/assets/App-Store-Badge.svg)](https://itunes.apple.com/us/app/wonder-wool/id958953053)
 
 #Development
 The game was developed in the period of November 1st through December 5th 2014 with two weeks of pre-production in October.
