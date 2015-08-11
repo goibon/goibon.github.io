@@ -4,7 +4,9 @@ layout: game
 thumbnail: bunny-nights-appicon.png
 icon: bunny-nights-appicon-large.png
 cover_image: bunny-nights-resultscreen-good.png
+permalink: /Bunny-Nights/
 short-description: A rhythm game developed for Android during my semester at DADIU. The game was developed in a single week with a team of 18 people. The game was created using Unity3D and all game code was written in C#.
+
 ---
 * TOC
 {:toc}

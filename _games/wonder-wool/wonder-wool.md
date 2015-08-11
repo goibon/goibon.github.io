@@ -4,6 +4,7 @@ layout: game
 thumbnail: wonder-wool-appicon.png
 icon: wonder-wool-appicon-large.png
 cover_image: wonderWool_fb_cover.png
+permalink: /Wonder-Wool/
 short-description: A mobile game developed for Android and iOS during my semester at DADIU. The game was developed over the course of a month with a team of 18 people. The game was created using Unity3D and all game code was written in C#.
 ---
 * TOC
@@ -56,7 +57,7 @@ This workflow worked well and many bugs where spotted during reviews and saved t
 Initially the production began with using Unity 4.5 but about two weeks into he project Unity released the public beta version of Unity 4.6 which had a completely new UI system that performed much faster than the old one. This was something I was very eager to use, but knowing that beta software can be less stable than release versions I decided to have a few programmers test it out to see if any major issues came up. Since none did I had the whole team upgrade to Unity 4.6 and this allowed for a much greater and faster UI in the game.
 
 ###Unity Cloud Build Beta
-As I had seen how much time our QA programmer had spent compiling the game during the [minigame production]({{site.url}}/games/bunny-nights/bunnynights.html) I decided to use the new Unity Cloud Build[^2] beta that had just been made available. Again this was use of beta software, but I knew that we could still compile the game ourselves at any time, should the need arise.
+As I had seen how much time our QA programmer had spent compiling the game during the [minigame production]({{site.url}}/Bunny-Nights) I decided to use the new Unity Cloud Build[^2] beta that had just been made available. Again this was use of beta software, but I knew that we could still compile the game ourselves at any time, should the need arise.
 
 It turned out to be a great benefit to use UCB as the members of the team did not need to build the game themselves, instead they could simply just download a finished build straight onto their devices whenever they wanted to test something or just see the game.
 
